@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Hi+I'm+Abdullah+Rais;Python+Learner;Future+Full+Stack+Developer;Learning+Every+Day" alt="Typing SVG" />
 </p>
 
-# Hi 👋, I'm Abdullah Rais
+
 
 ### 🐍 Python Learner | 💻 Future Full Stack Developer
 
@@ -35,3 +35,6 @@
 ### ✨ Quote
 
 > "Every expert was once a beginner."
+> <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahrais&show_icons=true&theme=tokyonight" />
+</p>
