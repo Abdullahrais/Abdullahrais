@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Abdullah Rais
 
-<!--
-**Abdullahrais/Abdullahrais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python Learner | 💻 Future Full Stack Developer
 
-Here are some ideas to get you started:
+- 🌱 Currently learning **Python**
+- 🎯 Goal: Become a **Full Stack Developer**
+- 💡 Next Learning Targets: **Java & JavaScript**
+- 🌐 Already Learned: **HTML & CSS**
+- 📍 Karachi, Pakistan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🎯 Current Goals
+
+- Complete Python Fundamentals
+- Learn JavaScript
+- Learn Java
+- Build Real Projects
+- Become a Full Stack Developer
+
+---
+
+### ✨ Quote
+
+> "Every expert was once a beginner."
