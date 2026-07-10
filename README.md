@@ -35,6 +35,3 @@
 ### ✨ Quote
 
 > "Every expert was once a beginner."
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdullahrais&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
